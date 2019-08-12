@@ -1,0 +1,996 @@
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Michael\Desktop\411VS2013_11_8\CIS 411\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gamer\Desktop\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.CoreCompileInputs.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_19\411VS2013_11_19\411VS2013_11_19\CIS 411\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\gamer\Desktop\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\Security.mdf
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Michael\Desktop\411VS2013_11_25\411VS2013_11_21\411VS2013_11_21\CIS 411\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Michael\Desktop\411VS2013_11_26\CIS 411\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_11_26\CIS 411\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\gamer\Desktop\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\gamer\Desktop\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\bin\Debug\Security.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.CoreCompileInputs.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_27\411VS2013_11_26\CIS 411\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\bin\Debug\Security.mdf
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Michael\Desktop\411\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\411VS2013_11_28\CIS 411\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_11_28\CIS 411\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_11_28_2\CIS 411\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\411VS2013_11_28_2\CIS 411\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\411VS2013_11_28_2\CIS 411\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_11_28_2\CIS 411\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\bin\Debug\Security.mdf
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\gamer\Desktop\411VS2013_11_28_2\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\bin\Debug\Security.mdf
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Michael\Desktop\411VS2013_11_29\411VS2013_11_29\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\bin\Debug\Security.mdf
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\gamer\Desktop\411VS2013_11_29_2\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\bin\Debug\Security.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS 411.csproj.CoreCompileInputs.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_11_29_2\411VS2013_11_29_2\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\bin\Debug\Security.mdf
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Desktop\411VS2013_12_2_2\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\Security.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.csproj.CoreCompileInputs.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\Security.mdf
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Michael\Desktop\411CS2013_12_3Karl\411VS2013_12_3\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\Security.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.csproj.CoreCompileInputs.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_3Mike\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\Security.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.csproj.CoreCompileInputs.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_4\411VS2013_12_3Mike\411VS2013_12_3\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\Security.mdf
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\Security.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS 411.csproj.CoreCompileInputs.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_5_AFTER.part2 (1)\411VS2013_12_5_PRE_MEET\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\bin\Debug\Security.mdf
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\gamer\Desktop\411VS2013_12_5_Karl\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\bin\Debug\Security.mdf
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Michael\Desktop\411VS2013_12_6\411VS2013_12_5_Chase\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\bin\Debug\Security.mdf
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\gamer\Desktop\411VS2013_12_6\411VS2013_12_6\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\Security.mdf
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Michael\Desktop\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\Security.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.csproj.CoreCompileInputs.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\bin\Debug\Security.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.csproj.CoreCompileInputs.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_7_NOT_RUNNING\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\bin\Debug\Security.mdf
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Michael\Desktop\411VS2013_12_9_Addition\411VS2013_12_7_WITH_ISSUES\411VS2013_12_7\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\bin\Debug\Security.mdf
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\gamer\Desktop\411VS2013_12_10\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\gamer\Desktop\411VS2013_12_10_FINAL\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\gamer\Desktop\411VS2013_12_10_FINAL\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\gamer\Desktop\411VS2013_12_10_FINAL\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\gamer\Desktop\411VS2013_12_10_FINAL\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\Security.mdf
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\ClarionRecCenter.mdf
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\ClarionRecCenter_log.ldf
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\ClarionSecurity.mdf
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\ClarionSecurity_log.ldf
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\CIS 411.exe.manifest
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\CIS 411.application
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.exe.manifest
+C:\Users\Michael\Desktop\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.application
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\ClarionRecCenter.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\ClarionRecCenter_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\ClarionSecurity.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\ClarionSecurity_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\Security.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\CIS 411.exe.manifest
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\CIS 411.application
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.csproj.CoreCompileInputs.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.exe.manifest
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.application
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_10_FINAL_-_Copy\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\ClarionRecCenter.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\ClarionRecCenter_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\ClarionSecurity.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\ClarionSecurity_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\Security.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\CIS 411.exe.manifest
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\CIS 411.application
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.csproj.CoreCompileInputs.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.exe.manifest
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.application
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\411VS2013_12_11\411VS2013_12_11\411VS2013_12_10_FINAL - Copy\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\ClarionSecurity.mdf
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\ClarionSecurity_log.ldf
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\Security.mdf
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\ClarionRecCenter.mdf
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\ClarionRecCenter_log.ldf
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\CIS 411.exe.manifest
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\CIS 411.application
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS 411.exe.manifest
+C:\Users\Michael\Desktop\123\ClarionRecCenter\CIS 411\obj\Debug\CIS 411.application
+C:\Users\Michael\Desktop\411VS2013_12_11FINAL- Copy\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\411VS2013_12_11FINAL- Copy\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\411VS2013_12_11FINAL- Copy\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\411VS2013_12_11FINAL- Copy\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionRecCenter.mdf
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionRecCenter_log.ldf
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionSecurity.mdf
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionSecurity_log.ldf
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\Security.mdf
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.exe.manifest
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.application
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.exe.manifest
+C:\Users\Michael\Desktop\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.application
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionRecCenter.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionRecCenter_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionSecurity.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionSecurity_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\Security.mdf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.exe.manifest
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.application
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csproj.CoreCompileInputs.cache
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.exe.manifest
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.application
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Tower\OneDrive - Clarion University of Pennsylvania\Documents\Fall 18\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionRecCenter.mdf
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionRecCenter_log.ldf
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionSecurity.mdf
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionSecurity_log.ldf
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\Security.mdf
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.exe.manifest
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.application
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.exe.manifest
+C:\Users\Michael\Desktop\12_12\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.application
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionRecCenter.mdf
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionRecCenter_log.ldf
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionSecurity.mdf
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionSecurity_log.ldf
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\Security.mdf
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.exe.manifest
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.application
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.exe.manifest
+C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.application
