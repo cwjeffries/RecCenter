@@ -994,3 +994,40 @@ C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\C
 C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.Cache
 C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.exe.manifest
 C:\Users\Michael\Desktop\Clarion Rec Center Program\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.application
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionRecCenter.mdf
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionRecCenter_log.ldf
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionSecurity.mdf
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\ClarionSecurity_log.ldf
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\Security.mdf
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\Security_log.ldf
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.exe.config
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.exe.manifest
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.application
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.exe
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\CIS 411.pdb
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\Clarion Security.dll
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.dll
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.xml
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csprojAssemblyReference.cache
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csproj.ResolveComReference.cache
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.AdminPanel.resources
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.DayPassForm.resources
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.EditMemberships.resources
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.EditStudents.resources
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.EntryEditForm.resources
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.LiabilityWaiver.resources
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.ReportsForm.resources
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.SelectMembership.resources
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.SignInForm.resources
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.Properties.Resources.resources
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.SplashForm.resources
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS_411.WorkerSignIn.resources
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csproj.GenerateResource.cache
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csproj.CoreCompileInputs.cache
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.exe.manifest
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.application
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.csproj.CopyComplete
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.exe
+C:\Users\Chase\Documents\GitHub\RecCenter\Clarion Rec Center Program\CIS 411\obj\Debug\CIS 411.pdb
