@@ -16,3 +16,5 @@ The features of the project are:
     Membership - allows user to purchase a membership based off what is currently available
 
 This is a C# Windows Form application with a MSQL Server Database.
+
+Video Demo of project: https://youtu.be/W8OJF3GrIJ4
